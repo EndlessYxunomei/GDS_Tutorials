@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/TRPG/Scenes/WorldMap.unity
+    guid: 5dc8f6eaf8c209346a92c4a5ff1d02a2
+  - enabled: 1
+    path: Assets/TRPG/Scenes/CombatEssentions.unity
+    guid: 8fca635882b0b6b40bc15ecc02b0759f
+  - enabled: 1
+    path: Assets/TRPG/Scenes/CombatStage1.unity
+    guid: 3164facc97302e6499a2fe052ac6b21c
+  - enabled: 1
+    path: Assets/TRPG/Scenes/CombatStage2.unity
+    guid: d8babc395b6b8db4b8379d0caac3dfbc
   m_configObjects: {}
